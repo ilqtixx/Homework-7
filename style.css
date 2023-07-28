@@ -1,0 +1,8 @@
+button{
+    background-color: white;
+    transition: background 0.5s linear 0.5s;
+    animation-iteration-count: 3;
+}
+button:hover{
+background-color: green;
+}
